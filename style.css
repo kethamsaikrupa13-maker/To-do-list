@@ -1,0 +1,83 @@
+.bg-container {
+    height: 100%;
+    background-color: white;
+    width: 100%;
+}
+
+.h1 {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.h2 {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.span {
+    color: red;
+    font-weight: bold;
+}
+
+.input {
+    height: 10vh;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.input1 {
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.but {
+    font-size: 15px;
+    font-family: "Roboto";
+    margin: 4px;
+
+}
+
+.span2 {
+    font-size: 23px;
+}
+
+.container1 {
+    height: 40px;
+    width: 100%;
+    background-color: aqua;
+    border-width: solid;
+    border-radius: 3px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 5px;
+    padding: 8px;
+    justify-content: space-between;
+
+}
+
+.label1 {
+    font-size: 13px;
+
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.delete-icon-container {
+    text-align: right;
+    padding: 3px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
